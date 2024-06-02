@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projekt</title>
+   <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: #f5f5f5;
+        line-height: 1.6;
+    }
+    h1, h2 {
+        color: #2c3e50;
+        text-align: center;
+    }
+    h1 {
+        margin-bottom: 40px;
+    }
+    .projekt{
+        margin-bottom: 40px;
+        padding: 20px;
+        background-color: #ecf0f1;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .projekt img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        display: block;
+        margin: 0 auto 20px;
+    }
+    .projekt h2 {
+        margin-top: 0;
+    }
+    nav {
+            background-color: #333; /* Set background color */
+            padding: 10px; /* Add padding */
+        }
+        nav ul {
+            list-style-type: none; /* Remove bullet points */
+            margin: 0;
+            padding: 0;
+            text-align: center; /* Align links to the center */
+        }
+        nav ul li {
+            display: inline; /* Display links inline */
+            margin-right: 20px; /* Add some space between links */
+        }
+        nav ul li a {
+            color: #fff; /* Set link text color */
+            text-decoration: none; /* Remove underline */
+            font-size: 18px; /* Set font size */
+            font-family: Arial, sans-serif; /* Specify font family */
+        }
+        nav ul li a:hover {
+            color: #ffd700; /* Change text color on hover */
+        }
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin: 20px 0;
+            background-color: #fff;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px 15px;
+            text-align: center;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+            text-transform: uppercase;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        td {
+            color: #333;
+        }
+    
+
+        
+</style>
+</head>
+<body>
+    <header>
+        <h1>MJETE EKONOMIKE </h1>
+       
+        <nav>
+            <ul>
+                <li><a href="#Cars"> Cars</a></li>
+                <li><a href="#Trucks"> Trucks</a></li>
+                <li><a href="#Motor">Motor</a></li>
+                <li><a href="#link" >link table</a></li>
+            </ul>
+
+        </nav>
+    </header>
+    
+    <main>
+       
+            <section id="Cars">
+            <div class="projekt">
+            <h2>TOYOTA CAMRY</h2>
+            <img src=https://i.gaw.to/vehicles/photos/40/36/403605-2024-toyota-camry.jpg? width="700">
+            <ul>
+            <li>Manufacturer: Toyota Motor Corporation</li>
+         
+            <li>Body Style: Sedan</li>
+            <li>Engine Options: The Camry typically offers a range of engine options including inline-4, V6, and hybrid powertrains.</li>
+            <li>Transmission: Options usually include automatic and sometimes manual transmissions.</li>
+            <li>Features: Depending on the trim level and year, features may include advanced safety features like Toyota Safety Sense, infotainment systems with touchscreen displays, smartphone integration (Apple CarPlay, Android Auto), navigation systems, leather upholstery, panoramic sunroof, adaptive cruise control, and more.</li>
+            <li>Fuel Efficiency: The Camry is known for its fuel efficiency, especially in its hybrid variants, offering competitive gas mileage compared to other midsize sedans.</li>
+            <li>Safety: Toyota typically equips the Camry with advanced safety features including pre-collision systems, lane departure warning, blind-spot monitoring, and more.</li>
+          <li>History: The Toyota Camry has a long history, with the first generation launching in the early 1980s. Over the years, it has become one of the best-selling sedans globally, known for its reliability, comfort, and practicality.</li> 
+        </ul>
+        <h2>HONDA CIVIC</h2>
+        <img src="https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/loqpsjfvmcu4bbqnh4vl" width="740" height="auto" alt="Car 2">
+                </a>
+                <ul>
+                    <li>Manufacturer: Honda Motor Co., Ltd.</li>
+                    <li>Body Styles: The Honda Civic is available in various body styles including sedan, coupe, and hatchback.</li>
+                    <li>Engine Options: The Civic typically offers a range of engine options including inline-4 engines with naturally aspirated or turbocharged configurations.</li>
+                    <li>Transmission: Options usually include manual and automatic transmissions, with some models offering continuously variable transmissions (CVT).</li>
+                    <li>Features: Depending on the trim level and year, features may include Honda Sensing suite of safety and driver-assistive technologies, touchscreen infotainment systems with Apple CarPlay and Android Auto integration, premium audio systems, leather upholstery, power moonroof, adaptive cruise control, lane-keeping assist, and more.</li>
+                    <li>Fuel Efficiency: The Civic is known for its fuel efficiency, especially in its more compact configurations, offering competitive gas mileage in its class.</li>
+                    <li>Safety: Honda typically equips the Civic with advanced safety features including collision mitigation braking system, road departure mitigation system, adaptive cruise control, lane-keeping assist, and more.</li>
+                    <li>History: The Honda Civic has a long history, with the first generation launching in the 1970s. It has consistently been one of the best-selling compact cars globally, known for its reliability, fuel efficiency, and sporty driving dynamics.</li>
+                </ul>
+            </div>
+           
+        </section>
+        <section id="Trucks">
+        <div class="projekt">
+            <h2>FORD F-150</h2>
+            <img src="https://cdn.motor1.com/images/mgl/vxpx0v/s1/2024-ford-f-150-platinum-exterior.webp" width="740" height="auto" alt="Truck 1">
+                </a>
+                <ul>
+                    <li>Manufacturer: Ford Motor Company</li>
+                    <li>Body Styles: The Ford F-150 is a full-size pickup truck available in various body styles including regular cab, SuperCab (extended cab), and SuperCrew (crew cab) configurations. It also offers different bed lengths to suit various needs.</li>
+                    <li>Engine Options: The F-150 typically offers a range of engine options including V6 and V8 gasoline engines, as well as turbocharged EcoBoost engines. In recent years, Ford has introduced hybrid and diesel engine options for increased efficiency and towing capabilities.
+                    </li>
+                    <li>Transmission: Options usually include automatic transmissions with multiple gears, providing a balance between performance and fuel efficiency</li>
+                    <li>Features: Depending on the trim level and year, features may include advanced towing capabilities, Ford Co-Pilot360 suite of driver-assist technologies, SYNC infotainment system with touchscreen display, Apple CarPlay and Android Auto integration, premium audio systems, leather upholstery, panoramic sunroof, adaptive cruise control, and more.</li>
+                    <li>Payload and Towing Capacity: The F-150 is known for its impressive payload and towing capabilities, making it a popular choice for work and recreation.</li>
+                    <li>Safety: Ford typically equips the F-150 with advanced safety features including automatic emergency braking, blind-spot monitoring, rear cross-traffic alert, lane-keeping assist, and more.</li>
+                    <li>History: The Ford F-Series has a long history, with the F-150 being one of its most popular and best-selling models. It has been a staple in the full-size pickup truck market for decades, known for its ruggedness, versatility, and capability to handle various tasks.</li>
+                </ul>
+                <h2>CHEVROLET SILVERADO 1500</h2>
+                <img src="https://crdms.images.consumerreports.org/c_lfill,w_1410,q_auto,f_auto/prod/cars/cr/car-versions/14950-2020-chevrolet-silverado-1500-lt" width="740" height="auto" alt="Truck 2">
+                </a>
+                <ul>
+                    <li>Manufacturer: General Motors (Chevrolet division)</li>
+                    <li>Body Styles: The Chevrolet Silverado 1500 is a full-size pickup truck available in various body styles including regular cab, double cab, and crew cab configurations. It also offers different bed lengths to suit various needs.</li>
+                    <li>Engine Options: The Silverado 1500 typically offers a range of engine options including V6 and V8 gasoline engines, as well as turbocharged and diesel engine options. These engines are designed to provide a balance between power and efficiency.</li>
+                    <li>Transmission: Options usually include automatic transmissions with multiple gears, providing smooth shifts and efficient power delivery.</li>
+                    <li>Features: Depending on the trim level and year, features may include advanced towing capabilities, Chevrolet Infotainment System with touchscreen display, Apple CarPlay and Android Auto integration, premium audio systems, leather upholstery, advanced trailering technologies, adaptive cruise control, and more.</li>
+                    <li>Payload and Towing Capacity: The Silverado 1500 is known for its impressive payload and towing capabilities, making it suitable for a wide range of tasks from daily commuting to heavy-duty hauling.
+                    </li>
+                    <li>Safety: Chevrolet typically equips the Silverado 1500 with advanced safety features including automatic emergency braking, forward collision alert, lane departure warning, rear cross-traffic alert, and more.</li>
+                    <li>History: The Chevrolet Silverado has a long history, with the Silverado 1500 being one of its most popular and best-selling models. It has been a staple in the full-size pickup truck market for decades, known for its durability, reliability, and capability to handle tough jobs.</li>
+                </ul>
+        </div>
+        </section>
+        <section id="Motor">
+            <div class="projekt">
+            <h2>HARLEY-DAVIDSON IRON 833 </h2>
+            <img src="data:image/jpeg;base64,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" width="720" alt="sh">
+                     <ul>
+                    <li>Manufacturer: Harley-Davidson, Inc.</li>
+                    <li>Type: Cruiser</li>
+                    <li>Engine: The Iron 883 is typically powered by an air-cooled Evolution V-twin engine, usually with a displacement of around 883cc. This engine is known for its torquey performance and classic Harley-Davidson sound.</li>
+                    <li>Transmission: It usually comes with a 5-speed manual transmission, providing smooth shifting and control.</li>
+                    <li>Features: The Iron 883 features a minimalist design with a classic cruiser look. It typically includes features such as blacked-out finishes, bobber-style solo seat, drag-style handlebar, mid-mount foot controls, and a low-slung profile. Optional features and accessories may include ABS brakes, upgraded suspension, custom paint options, and more.</li>
+                    <li>Performance: The Iron 883 offers a blend of power and agility suitable for urban cruising and shorter rides. Its low seat height and lightweight design make it accessible to a wide range of riders.</li>
+                    <li>Customization: Like all Harley-Davidson motorcycles, the Iron 883 offers a wide range of customization options through the Harley-Davidson Genuine Motor Parts & Accessories catalog. This allows riders to personalize their bikes according to their preferences and style.</li>
+                    <li>Legacy: The Iron 883 is part of Harley-Davidson's Sportster lineup, which has a rich heritage dating back to the 1950s. It carries on the tradition of classic American motorcycles while incorporating modern technology and design elements.</li>
+                </ul>
+                <h2>DUCATI MONSTER 821</h2>
+                <img src="https://www.bennetts.co.uk/-/media/bikesocial/2023-january-images/2014-ducati-monster-821-used-review/ducati-monster-821-2014-review-used-price_05.ashx?h=494&la=en&w=740&hash=FB0602CD80A63A4E7A2B325D5F28AE8BF88F7730" alt="Motorcycle 2">
+                </a>
+                <ul>
+                    <li>Manufacturer: Ducati Motor Holding S.p.A.</li>
+                    <li>Type: Naked/Sport</li>
+                    <li>Engine: The Monster 821 is powered by a liquid-cooled, Testastretta 11° L-twin engine with a displacement of 821cc. This engine configuration is known for its smooth power delivery and strong mid-range torque.</li>
+                    <li>Transmission: It typically comes with a 6-speed manual transmission, offering precise gear shifts and responsive performance.</li>
+                    <li>Features: The Monster 821 features a distinctive naked bike design with muscular lines and aggressive styling. It usually includes features such as a trellis frame, minimalist bodywork, dual-exhaust system, LED lighting, digital instrumentation, adjustable suspension, and Brembo brakes. Rider aids may include multiple riding modes, traction control, ABS, and Ducati Quick Shift (DQS) for clutchless upshifts and downshifts.</li>
+                    <li>Performance: The Monster 821 offers a dynamic riding experience with agile handling and responsive acceleration. Its upright riding position and comfortable ergonomics make it suitable for both city commuting and spirited riding on twisty roads.</li>
+                    <li>Customization: Ducati offers a range of accessories and parts through its Ducati Performance catalog, allowing riders to customize their Monster 821 to suit their preferences and riding style.</li>
+                    <li>Legacy: The Monster 821 is part of Ducati's iconic Monster lineup, which revolutionized the naked bike segment when it was first introduced in the early 1990s. It carries on the tradition of combining performance with everyday usability while incorporating modern technology and design elements.</li>
+                </ul>
+
+
+            </div>
+
+        </section>
+        <section id="link">
+        <table >
+            <tr>
+                <th>TOYOTA CAMRY</th>
+                <td><a href="https://www.toyota.com" >click here for more information</a></td>
+            </tr>
+            <tr>
+                <th>HONDA CIVIC</th>
+                <td><a href="https://www.honda.com" >click here for more information</a></td>
+            </tr>
+            <tr>
+                <th>
+                    CHEVROLET SILVERADO 1500
+                </th>
+                <td><a href="https://www.chevrolet.com" >click here for more information</a></td>
+            </tr>
+            <tr>
+                <th>FORD F-150</th>
+                <td><a href="https://www.ford.com" >click here for more information</a></td>
+            </tr>
+            <tr>
+                <th>HARLEY-DAVIDSON IRON 833</th>
+                <td><a href="https://www.Harley-Davidson.com" class="href">click here for more information</a></td>
+            </tr>
+            <tr>
+                <th>DUCATI MONSTER 821</th>
+                <td><a href="https://www.Ducati.com" >click here for more information</a></td>
+            </tr>
+        </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Website. All rights reserved.</p>
+    </footer>
+    
+    
+</body>
+</html>
